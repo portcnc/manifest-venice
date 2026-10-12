@@ -9,7 +9,7 @@
 
   <project path="buildroot" name="buildroot/buildroot.git" revision="2026.05.x" />
   <project path="atf" name="Gateworks/atf-venice" revision="lf_v2.4" />
-  <project path="u-boot" name="Gateworks/uboot-venice" revision="v2024.10-venice" />
+  <project path="u-boot" name="portcnc/uboot-venice" revision="v2024.10-venice" />
   <project path="linux" name="Gateworks/linux-venice" revision="v6.18.29-venice" />
   <project path="cryptodev-linux" name="cryptodev-linux/cryptodev-linux" />
   <project path="venice" name="portcnc/bsp-venice">
